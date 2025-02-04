@@ -5,3 +5,5 @@
 Para ejecutar el istema debes poner:
 
 '''npm instll react'''
+
+Sistema de Registro 2
